@@ -115,7 +115,7 @@ export AWS_SECRET_ACCESS_KEY="<your_secret_key>"
 
 ## 📽️ Demo
 
-👉 Coming soon...
+👉 https://drive.google.com/file/d/1obBo3CY-t8AZdTudSHFGPlqE1wKwWD_N/view?usp=sharing
 
 Or add:
 ```markdown
