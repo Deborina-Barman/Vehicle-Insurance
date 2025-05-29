@@ -141,7 +141,7 @@ Inspired by real-world MLOps workflows and course-style projects.
 
 ## 📧 Contact
 **Deborina Barman**  
-Email: deborina.24mas10045@vitbhopal.ac.in  
+Email: deborinabarman01@gmail.com
 LinkedIn: [deborinabarman](https://www.linkedin.com/in/deborinabarman/)
 
 ---
